@@ -15,7 +15,7 @@ This project is developed for the **NXP Hackathon 2026** to automate the detecti
 
 ### 4. Dataset Information
 Due to GitHub's file size limits, the complete dataset zip is available via Google Drive.
-* **Dataset Link:** [https://drive.google.com/file/d/1y_cdbiQZ1Wiqxz1EvBvoxrVpkgFV-3KH/view?usp=drive_link]
+* **Dataset Link:** https://drive.google.com/file/d/1y_cdbiQZ1Wiqxz1EvBvoxrVpkgFV-3KH/view?usp=drivesdk
 
 ### 5. Repository Files
 * `Untitled3.ipynb`: Complete training and evaluation code.
